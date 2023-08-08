@@ -1,9 +1,11 @@
-import React from 'react'
 
-const head = () => {
+
+const Head = () => {
   return (
-    <div>head</div>
+    <div className="logo">
+      Logo
+    </div>
   )
 }
 
-export default head
+export default Head
